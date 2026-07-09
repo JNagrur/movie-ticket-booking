@@ -2,7 +2,7 @@
 
 A React application for browsing movies and booking tickets. Built with React, Redux, and React Router.
 
-**[Live Demo](https://jnagrur.github.io/movie-booking)** *(deploy via GitHub Pages)*
+**[Live Demo](https://jnagrur.github.io/movie-ticket-booking/#/)** 
 
 ## What it does
 
